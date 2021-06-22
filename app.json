@@ -1,0 +1,12 @@
+{
+  "name": "hiiretail-mobile-auth-example",
+  "displayName": "hiiretail-mobile-auth-example",
+  "expo": {
+    "name": "hiiretail-mobile-auth-example",
+    "slug": "hiiretail-mobile-auth-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
